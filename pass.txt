@@ -1,0 +1,2 @@
+pass sql: huy 123
+pass admin: giahuy 123
